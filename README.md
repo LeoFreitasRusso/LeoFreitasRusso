@@ -24,6 +24,8 @@
 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFreitasRusso&layout=compact&show_icons=true&theme=buefy)](https://github.com/LeoFreitasRusso/github-readme-stats)
+
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Leonardo Russo](https://img.shields.io/badge/-leofreitasrusso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leofreitasrusso/)](https://www.linkedin.com/in/leofreitasrusso/)    
